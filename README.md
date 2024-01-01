@@ -1,1 +1,2 @@
-# Detect it is a video shot boundary detection system.
+# Detect it 
+This program is a video-shot boundary detection system.
